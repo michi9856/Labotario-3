@@ -57,6 +57,6 @@ image
 
 •En conclusión, esta práctica nos permitió aplicar la ley de voltajes de Kirchhoff en cada nodo del circuito, mediante esto pudimos observar que el análisis de nodos se puede ir calculando en partes, lo cual nos permite resolver este tipo de circuitos de una manera rápida y sencilla.
 
-• Aplicamos lo sentidos de corriente a nuestra conveniencia a la hora de realizar los cálculos correspondientes a cada nodo , nos permitió observar que el sentido no afecta en el resultado, ya que en ambos casos obtuvimos los mismos valores.
+• Aplicamos lo sentidos de corriente a nuestra conveniencia a la hora de realizar los cálculos correspondientes a cada nodo , nos permitió observar que las caidas de voltajes son iguales a los voltajes que llegan a cada nodo.
 
 • Finalmente, haciendo uso del simulador y realizando el circuito de forma física pudimos comprobar los valores que calculamos de forma análisis eran correctos.
