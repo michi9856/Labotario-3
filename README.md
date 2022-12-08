@@ -14,4 +14,7 @@
 
 • Comprender la importancia de realizar el análisis de nodos, ya que nos permite realizar cálculos de una manera más eficiente y organizada.
 
+2. MARCO TEÓRICO
+
+
 # Conclusiones
