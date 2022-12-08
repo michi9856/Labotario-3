@@ -1,5 +1,17 @@
 # Labotario-3
+Fundamentos de Circuitos Eléctricos
 
+Integrantes:
+
+• Michael Bryan Toroche Quishpe
+
+• Jhon Steven Quingatuña Moreano
+
+• Anthony Javier Cevallos Ramirez
+
+Laboratorio Nro:2
+
+Tema: Análisis de Nodos
 
 ## OBJETIVO GENERAL
 
