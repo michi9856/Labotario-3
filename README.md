@@ -71,6 +71,7 @@ Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
 # 4.VIDEO
 
+https://youtu.be/X5CGR1Cdeak
 
 # 5. CONCLUSIONES
 
