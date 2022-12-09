@@ -81,3 +81,7 @@ https://youtu.be/X5CGR1Cdeak
 
 • Finalmente, haciendo uso del simulador y realizando el circuito de forma física pudimos comprobar los valores que calculamos de forma análisis eran correctos.
 # 6. BIBLIOGRAFIA
+
+• Boylestad, Robert L. (2013) Análisis introductorio de circuitos. 9º Edición. México: PrenQce Hall.
+
+• Juárez, A. R. R. Leyes de Kirchhoff.
