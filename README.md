@@ -69,11 +69,14 @@ Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
 
 ![image](https://user-images.githubusercontent.com/116775893/206591958-fd411bae-9324-4b1b-b870-bbba81f3c41a.png)
 
+# 4.VIDEO
 
-# Conclusiones
+
+# 5. CONCLUSIONES
 
 •En conclusión, esta práctica nos permitió aplicar la ley de voltajes de Kirchhoff en cada nodo del circuito, mediante esto pudimos observar que el análisis de nodos se puede ir calculando en partes, lo cual nos permite resolver este tipo de circuitos de una manera rápida y sencilla.
 
 • Aplicamos lo sentidos de corriente a nuestra conveniencia a la hora de realizar los cálculos correspondientes a cada nodo , nos permitió observar que las caidas de voltajes son iguales a los voltajes que llegan a cada nodo.
 
 • Finalmente, haciendo uso del simulador y realizando el circuito de forma física pudimos comprobar los valores que calculamos de forma análisis eran correctos.
+# 6. BIBLIOGRAFIA
