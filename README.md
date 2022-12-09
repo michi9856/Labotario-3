@@ -26,7 +26,7 @@ Tema: Análisis de Nodos
 
 • Comprender la importancia de realizar el análisis de nodos, ya que nos permite realizar cálculos de una manera más eficiente y organizada.
 #
-2. MARCO TEÓRICO
+# 2. MARCO TEÓRICO
 ![Untitled (7)](https://user-images.githubusercontent.com/116761073/206578468-ba588d18-833e-4130-a92e-81c2a8fa83f2.jpg)
 
 ![Untitled (8)](https://user-images.githubusercontent.com/116761073/206578546-281a3d21-eb6e-408a-8215-636562e1a449.jpg)
